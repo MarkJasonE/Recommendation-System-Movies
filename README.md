@@ -1,6 +1,14 @@
 # Recommendation-System-Movies
 Recommendation system for movies using content-based filtering.
 
+# Info about the web app and what it does
+
+# Instruction to get API key and running the project
+
+# Architecture
+
+# How does content based filtering work (Similarity Score, cosine Similarity)
+
 <b>Data sources</b>
 - IMDB 5000 - https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 - Movie Metadata - https://www.kaggle.com/rounakbanik/the-movies-dataset
