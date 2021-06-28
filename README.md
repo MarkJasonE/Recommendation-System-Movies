@@ -5,8 +5,8 @@ Recommendation system for movies using content-based filtering.
 
 # Instruction to get API key and running the project
 
--https://developers.themoviedb.org/3/getting-started/introduction
--https://pypi.org/project/tmdbv3api/
+- https://developers.themoviedb.org/3/getting-started/introduction
+- https://pypi.org/project/tmdbv3api/
 
 # Architecture
 
