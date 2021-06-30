@@ -3,10 +3,10 @@ Recommendation system for movies using content-based filtering.
 
 # Info about the web app and what it does
 
-# Instruction to get API key and running the project
-
-- https://developers.themoviedb.org/3/getting-started/introduction
-- https://pypi.org/project/tmdbv3api/
+# Instruction to get API key
+- Sign in to https://www.themoviedb.org/ in order to get your API key.
+- Also, make sure to install TMDB API library https://pypi.org/project/tmdbv3api/
+- Follow the examples listed on TMDB API docs (presented above) and check out the docs https://developers.themoviedb.org/3/search/search-movies
 
 # Architecture
 
