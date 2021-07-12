@@ -21,7 +21,7 @@ a fantastic woman,Drama,Sebastián Lelio,Daniela Vega,Francisco Reyes,None,Sebas
 armed,Action Horror Thriller,Mario Van Peebles,Mario Van Peebles,William Fichtner,Ryan Guzman,Mario Van Peebles Mario Van Peebles William Fichtner Ryan Guzman Action Horror Thriller
 the cloverfield paradox,Horror Science Fiction Action Thriller,Julius Onah,Daniel Brühl,Elizabeth Debicki,Aksel Hennie,Julius Onah Daniel Brühl Elizabeth Debicki Aksel Hennie Horror Science Fiction Action Thriller
 bad apples,Horror,Bryan Coyne,Brea Grant,Graham Skipper,Aly Fitzgerald,Bryan Coyne Brea Grant Graham Skipper Aly Fitzgerald Horror
-peter rabbit,Animation Adventure Family,Will Gluck,James Corden,Domhnall Gleeson,Rose Byrne,Will Gluck James Corden Domhnall Gleeson Rose Byrne Animation Adventure Family
+peter rabbit,Family Comedy Adventure Animation Fantasy,Will Gluck,James Corden,Domhnall Gleeson,Rose Byrne,Will Gluck James Corden Domhnall Gleeson Rose Byrne Family Comedy Adventure Animation Fantasy
 fifty shades freed,Drama Romance,James Foley,Dakota Johnson,Jamie Dornan,Kim Basinger,James Foley Dakota Johnson Jamie Dornan Kim Basinger Drama Romance
 the 15:17 to paris,Thriller History Drama,Clint Eastwood,Anthony Sadler,Alek Skarlatos,Spencer Stone,Clint Eastwood Anthony Sadler Alek Skarlatos Spencer Stone Thriller History Drama
 la boda de valentina,Comedy,Marco Polo Constandse,Omar Chaparro,Marimar Vega,Ryan Carnes,Marco Polo Constandse Omar Chaparro Marimar Vega Ryan Carnes Comedy
@@ -56,7 +56,7 @@ tomb raider,Action Adventure Fantasy,Roar Uthaug,Alicia Vikander,Dominic West,Wa
 i can only imagine,Music Drama,Jon Erwin,Cloris Leachman,Dennis Quaid,Priscilla Shirer,Jon Erwin Cloris Leachman Dennis Quaid Priscilla Shirer Music Drama
 7 days in entebbe,Thriller Drama Crime,José Padilha,Rosamund Pike,Daniel Brühl,Vincent Cassel,José Padilha Rosamund Pike Daniel Brühl Vincent Cassel Thriller Drama Crime
 furlough,Comedy,Laurie Collyer,Melissa Leo,Tessa Thompson,La La Anthony,Laurie Collyer Melissa Leo Tessa Thompson La La Anthony Comedy
-josie,Comedy Music,Eric England,Sophie Turner,Dylan McDermott,Jack Kilmer,Eric England Sophie Turner Dylan McDermott Jack Kilmer Comedy Music
+josie,Thriller Drama,Eric England,Sophie Turner,Dylan McDermott,Jack Kilmer,Eric England Sophie Turner Dylan McDermott Jack Kilmer Thriller Drama
 flower,Drama Comedy,Max Winkler,Zoey Deutch,Kathryn Hahn,Tim Heidecker,Max Winkler Zoey Deutch Kathryn Hahn Tim Heidecker Drama Comedy
 pacific rim: uprising,Action Fantasy Science Fiction Adventure,Steven S. DeKnight,John Boyega,Scott Eastwood,Cailee Spaeny,Steven S. DeKnight John Boyega Scott Eastwood Cailee Spaeny Action Fantasy Science Fiction Adventure
 isle of dogs,Adventure Comedy Animation,Wes Anderson,Bryan Cranston,Edward Norton,Bill Murray,Wes Anderson Bryan Cranston Edward Norton Bill Murray Adventure Comedy Animation
@@ -74,7 +74,7 @@ the last movie star,Drama,Adam Rifkin,Burt Reynolds,Ariel Winter,Clark Duke,Adam
 a quiet place,Science Fiction Thriller Horror,John Krasinski,John Krasinski,Emily Blunt,Millicent Simmonds,John Krasinski John Krasinski Emily Blunt Millicent Simmonds Science Fiction Thriller Horror
 blockers,Comedy,Kay Cannon,Leslie Mann,Ike Barinholtz,John Cena,Kay Cannon Leslie Mann Ike Barinholtz John Cena Comedy
 you were never really here,Thriller Drama,Lynne Ramsay,Joaquin Phoenix,Ekaterina Samsonov,Alex Manette,Lynne Ramsay Joaquin Phoenix Ekaterina Samsonov Alex Manette Thriller Drama
-chappaquiddick,Drama Thriller History,John Curran,Jason Clarke,Kate Mara,Ed Helms,John Curran Jason Clarke Kate Mara Ed Helms Drama Thriller History
+chappaquiddick,History Drama Thriller,John Curran,Jason Clarke,Kate Mara,Ed Helms,John Curran Jason Clarke Kate Mara Ed Helms History Drama Thriller
 pandas,Documentary,"Drew Fellman, David Douglas",Kristen Bell,None,None,"Drew Fellman, David Douglas Kristen Bell None None Documentary"
 lean on pete,Drama Adventure,Andrew Haigh,Charlie Plummer,Chloë Sevigny,Travis Fimmel,Andrew Haigh Charlie Plummer Chloë Sevigny Travis Fimmel Drama Adventure
 the miracle season,Drama,Sean McNamara,Helen Hunt,William Hurt,Erin Moriarty,Sean McNamara Helen Hunt William Hurt Erin Moriarty Drama
@@ -86,7 +86,7 @@ sgt. stubby: an american hero,Animation Adventure Family History War,Richard Lan
 i feel pretty,Comedy Romance,"Abby Kohn, Marc Silverstein",Amy Schumer,Michelle Williams,Emily Ratajkowski,"Abby Kohn, Marc Silverstein Amy Schumer Michelle Williams Emily Ratajkowski Comedy Romance"
 super troopers 2,Comedy Crime Mystery,Jay Chandrasekhar,Jay Chandrasekhar,Paul Soter,Steve Lemme,Jay Chandrasekhar Jay Chandrasekhar Paul Soter Steve Lemme Comedy Crime Mystery
 traffik,Horror Thriller,Deon Taylor,Paula Patton,Omar Epps,Missi Pyle,Deon Taylor Paula Patton Omar Epps Missi Pyle Horror Thriller
-the house of tomorrow,Drama,Peter Livolsi,Asa Butterfield,Nick Offerman,Ellen Burstyn,Peter Livolsi Asa Butterfield Nick Offerman Ellen Burstyn Drama
+the house of tomorrow,Adventure,Peter Livolsi,Asa Butterfield,Nick Offerman,Ellen Burstyn,Peter Livolsi Asa Butterfield Nick Offerman Ellen Burstyn Adventure
 liz and the blue bird,Animation Drama Music,Naoko Yamada,Atsumi Tanezaki,Nao Tōyama,None,Naoko Yamada Atsumi Tanezaki Nao Tōyama None Animation Drama Music
 avengers: infinity war,Adventure Action Science Fiction,Anthony Russo and Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Anthony Russo and Joe Russo Robert Downey Jr. Chris Hemsworth Mark Ruffalo Adventure Action Science Fiction
 disobedience,Drama Romance,Sebastián Lelio,Rachel Weisz,Rachel McAdams,Alessandro Nivola,Sebastián Lelio Rachel Weisz Rachel McAdams Alessandro Nivola Drama Romance
@@ -100,14 +100,14 @@ the guardians,Family Animation Fantasy Action Adventure,Xavier Beauvois,Nathalie
 life of the party,Comedy,Ben Falcone,Melissa McCarthy,Maya Rudolph,Molly Gordon,Ben Falcone Melissa McCarthy Maya Rudolph Molly Gordon Comedy
 breaking in,Thriller Crime Action Horror,James McTeigue,Gabrielle Union,Billy Burke,Richard Cabral,James McTeigue Gabrielle Union Billy Burke Richard Cabral Thriller Crime Action Horror
 the seagull,Drama Romance Comedy,Michael Mayer,Saoirse Ronan,Annette Bening,Corey Stoll,Michael Mayer Saoirse Ronan Annette Bening Corey Stoll Drama Romance Comedy
-terminal,Comedy Drama,Vaughn Stein,Margot Robbie,Simon Pegg,Dexter Fletcher,Vaughn Stein Margot Robbie Simon Pegg Dexter Fletcher Comedy Drama
+terminal,Crime Drama Thriller,Vaughn Stein,Margot Robbie,Simon Pegg,Dexter Fletcher,Vaughn Stein Margot Robbie Simon Pegg Dexter Fletcher Crime Drama Thriller
 revenge,Animation Action Fantasy,Coralie Fargeat,Matilda Lutz,Kevin Janssens,Vincent Colombe,Coralie Fargeat Matilda Lutz Kevin Janssens Vincent Colombe Animation Action Fantasy
 deadpool 2,Action Comedy Adventure,David Leitch,Ryan Reynolds,Josh Brolin,Zazie Beetz,David Leitch Ryan Reynolds Josh Brolin Zazie Beetz Action Comedy Adventure
 book club,Comedy Romance Drama,Bill Holderman,Jane Fonda,Candice Bergen,Mary Steenburgen,Bill Holderman Jane Fonda Candice Bergen Mary Steenburgen Comedy Romance Drama
 first reformed,Drama,Paul Schrader,Ethan Hawke,Amanda Seyfried,Cedric Kyles,Paul Schrader Ethan Hawke Amanda Seyfried Cedric Kyles Drama
 pope francis: a man of his word,Documentary,Wim Wenders,Pope Francis,None,None,Wim Wenders Pope Francis None None Documentary
 show dogs,Adventure Crime Family Comedy,Raja Gosnell,Will Arnett,Natasha Lyonne,Ludacris,Raja Gosnell Will Arnett Natasha Lyonne Ludacris Adventure Crime Family Comedy
-solo: a star wars story,Science Fiction Adventure,Ron Howard,Alden Ehrenreich,Woody Harrelson,Emilia Clarke,Ron Howard Alden Ehrenreich Woody Harrelson Emilia Clarke Science Fiction Adventure
+solo: a star wars story,Science Fiction Adventure Action Crime,Ron Howard,Alden Ehrenreich,Woody Harrelson,Emilia Clarke,Ron Howard Alden Ehrenreich Woody Harrelson Emilia Clarke Science Fiction Adventure Action Crime
 how to talk to girls at parties,Comedy Music Romance Science Fiction,John Cameron Mitchell,Elle Fanning,Alex Sharp,Nicole Kidman,John Cameron Mitchell Elle Fanning Alex Sharp Nicole Kidman Comedy Music Romance Science Fiction
 in darkness,Thriller Mystery,Anthony Byrne,Natalie Dormer,Emily Ratajkowski,Ed Skrein,Anthony Byrne Natalie Dormer Emily Ratajkowski Ed Skrein Thriller Mystery
 the misandrists,Drama,Bruce LaBruce,Susanne Sachße,Viva Ruiz,Kembra Pfahler,Bruce LaBruce Susanne Sachße Viva Ruiz Kembra Pfahler Drama
@@ -151,7 +151,7 @@ bleach,Action Fantasy Adventure,Shinsuke Sato,Sota Fukushi,Hana Sugisaki,None,Sh
 gauguin – voyage de tahiti,Drama Romance,Édouard Deluc,Vincent Cassel,Tuheï Adams,Malik Zidi,Édouard Deluc Vincent Cassel Tuheï Adams Malik Zidi Drama Romance
 mission: impossible – fallout,Action Adventure,Christopher McQuarrie,Tom Cruise,Henry Cavill,Ving Rhames,Christopher McQuarrie Tom Cruise Henry Cavill Ving Rhames Action Adventure
 teen titans go! to the movies,Animation Action Comedy Science Fiction,Peter Rida Michail,Scott Menville,Khary Payton,Tara Strong,Peter Rida Michail Scott Menville Khary Payton Tara Strong Animation Action Comedy Science Fiction
-detective dee: the four heavenly kings,Mystery Fantasy Adventure Action,Tsui Hark,Mark Chao,Chang Chia-lu,Chen Kuo-Fu (screenplay),Tsui Hark Mark Chao Chang Chia-lu Chen Kuo-Fu (screenplay) Mystery Fantasy Adventure Action
+detective dee: the four heavenly kings,Mystery Fantasy Adventure Action,Tsui Hark,Mark Chao,None,Chen Kuo-Fu (screenplay),Tsui Hark Mark Chao None Chen Kuo-Fu (screenplay) Mystery Fantasy Adventure Action
 hot summer nights,Drama Comedy,Elijah Bynum,Timothée Chalamet,Maika Monroe,Alex Roe,Elijah Bynum Timothée Chalamet Maika Monroe Alex Roe Drama Comedy
 puzzle,Drama,Marc Turtletaub,Kelly Macdonald,Irrfan Khan,David Denman,Marc Turtletaub Kelly Macdonald Irrfan Khan David Denman Drama
 christopher robin,Adventure Comedy Family Fantasy,Marc Forster,Ewan McGregor,Hayley Atwell,Jim Cummings,Marc Forster Ewan McGregor Hayley Atwell Jim Cummings Adventure Comedy Family Fantasy
@@ -211,8 +211,8 @@ goosebumps 2: haunted halloween,Adventure Comedy Fantasy Family Horror,Ari Sande
 beautiful boy,Drama,Felix van Groeningen,Steve Carell,Timothée Chalamet,Maura Tierney,Felix van Groeningen Steve Carell Timothée Chalamet Maura Tierney Drama
 the oath,Comedy,Ike Barinholtz,Ike Barinholtz,Tiffany Haddish,Nora Dunn,Ike Barinholtz Ike Barinholtz Tiffany Haddish Nora Dunn Comedy
 gosnell: the trial of america's biggest serial killer,Drama Crime,Nick Searcy,Earl Billings,Dean Cain,Sarah Jane Morris,Nick Searcy Earl Billings Dean Cain Sarah Jane Morris Drama Crime
-after everything,Comedy Drama Romance,"Hannah Marks, Joey Power",Jeremy Allen White,Joey Power (directors/screenplay),Jeremy Allen White,"Hannah Marks, Joey Power Jeremy Allen White Joey Power (directors/screenplay) Jeremy Allen White Comedy Drama Romance"
-halloween,Mystery Animation Action Crime,David Gordon Green,Jamie Lee Curtis,Judy Greer,Andi Matichak,David Gordon Green Jamie Lee Curtis Judy Greer Andi Matichak Mystery Animation Action Crime
+after everything,Comedy Drama Romance,"Hannah Marks, Joey Power (directors/screenplay), Jeremy Allen White, Maika Monroe, DeRon Horton, Sasha Lane, Dean Winters, Gina Gershon, Marisa Tomei",Jeremy Allen White,None,Jeremy Allen White,"Hannah Marks, Joey Power (directors/screenplay), Jeremy Allen White, Maika Monroe, DeRon Horton, Sasha Lane, Dean Winters, Gina Gershon, Marisa Tomei Jeremy Allen White None Jeremy Allen White Comedy Drama Romance"
+halloween,Horror,David Gordon Green,Jamie Lee Curtis,Judy Greer,Andi Matichak,David Gordon Green Jamie Lee Curtis Judy Greer Andi Matichak Horror
 can you ever forgive me?,Drama Crime Comedy,Marielle Heller,Melissa McCarthy,Richard E. Grant,None,Marielle Heller Melissa McCarthy Richard E. Grant None Drama Crime Comedy
 mid90s,Drama Comedy,Jonah Hill,Sunny Suljic,Lucas Hedges,Katherine Waterston,Jonah Hill Sunny Suljic Lucas Hedges Katherine Waterston Drama Comedy
 wildlife,Drama,Paul Dano,Carey Mulligan,Jake Gyllenhaal,Ed Oxenbould,Paul Dano Carey Mulligan Jake Gyllenhaal Ed Oxenbould Drama
@@ -261,7 +261,7 @@ welcome to marwen,Drama Comedy Fantasy,Robert Zemeckis,Steve Carell,Leslie Mann,
 second act,Romance Comedy,Peter Segal,Jennifer Lopez,Leah Remini,Vanessa Hudgens,Peter Segal Jennifer Lopez Leah Remini Vanessa Hudgens Romance Comedy
 cold war,Animation,Paweł Pawlikowski,Joanna Kulig,Tomasz Kot,Agata Kulesza,Paweł Pawlikowski Joanna Kulig Tomasz Kot Agata Kulesza Animation
 holmes & watson,Mystery Adventure Comedy Crime,Etan Cohen,Will Ferrell,John C. Reilly,Rebecca Hall,Etan Cohen Will Ferrell John C. Reilly Rebecca Hall Mystery Adventure Comedy Crime
-vice,Thriller Science Fiction Action Adventure,Adam McKay,Christian Bale,Amy Adams,Steve Carell,Adam McKay Christian Bale Amy Adams Steve Carell Thriller Science Fiction Action Adventure
+vice,Comedy Romance Crime Drama Mystery,Adam McKay,Christian Bale,Amy Adams,Steve Carell,Adam McKay Christian Bale Amy Adams Steve Carell Comedy Romance Crime Drama Mystery
 on the basis of sex,Drama History,Mimi Leder,Felicity Jones,Armie Hammer,Justin Theroux,Mimi Leder Felicity Jones Armie Hammer Justin Theroux Drama History
 destroyer,Thriller Crime Drama Action,Karyn Kusama,Nicole Kidman,Sebastian Stan,Toby Kebbell,Karyn Kusama Nicole Kidman Sebastian Stan Toby Kebbell Thriller Crime Drama Action
 black mirror: bandersnatch,Science Fiction Mystery Drama Thriller TV Movie,David Slade,Fionn Whitehead,Will Poulter,Asim Chaudhry,David Slade Fionn Whitehead Will Poulter Asim Chaudhry Science Fiction Mystery Drama Thriller TV Movie
