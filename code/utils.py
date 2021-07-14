@@ -34,14 +34,12 @@ def get_director(x):
         return x.split(" (director)")[0]
     elif " (directors)" in x:
         return x.split(" (directors)")[0]
+    elif " (director," in x:
+        return x.split(" (director,")[0]
     elif " (director/" in x:
         return x.split(" (director/")[0]
-    elif " (director, screenplay)" in x:
-        return x.split(" (director, screenplay)")[0]
-    elif " (directors/screenplay)" in x:
-        return x.split(" (directors/screenplay);")[0]
-    elif " (director/screenplay)" in x:
-        return x.split(" (director/screenplay)")[0]
+    elif " (directors/" in x:
+        return x.split(" (directors/")[0]
     else: 
         return "None"
         
@@ -111,10 +109,10 @@ def get_actor3(x):
         else:
             return (x.split("Screenplay), ")[-1].split(", ")[2])
     elif "screenplay), " in x:
-        if len(x.split("screenplay); ")[-1].split(", ")) < 3:
+        if len(x.split("screenplay), ")[-1].split(", ")) < 3:
             return "None"
         else:
-            return (x.split("screenplay); ")[-1].split(", ")[2])
+            return (x.split("screenplay), ")[-1].split(", ")[2])
     elif "screenplay); " in x:
         if len(x.split("screenplay); ")[-1].split(", ")) < 3:
             return "None"
